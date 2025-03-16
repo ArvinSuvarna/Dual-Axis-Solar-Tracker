@@ -31,7 +31,7 @@
 ## 🛠 Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Dual-Axis-Solar-Tracker.git
+   git clone https://github.com/ArvinSuvarna/Dual-Axis-Solar-Tracker.git
    cd Dual-Axis-Solar-Tracker
    ```  
 2. Upload the **Arduino code** (`solar_tracker.ino`) to your Arduino board.  
