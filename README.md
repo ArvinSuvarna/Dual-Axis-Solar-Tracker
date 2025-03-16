@@ -2,6 +2,12 @@
 
 **Dual-Axis Solar Tracking System** is an **Arduino-based automated solar tracker** that optimizes **solar panel alignment** for maximum sunlight absorption. By dynamically adjusting both **horizontal and vertical angles** using **photoresistors and servo motors**, this system increases **energy efficiency by up to 40%** compared to fixed solar panels.  
 
+## 📷 Circuit Diagram  
+![Circuit Diagram](circuit_diagram.jpg)  
+
+## 📊 Flowchart  
+![Flowchart](flowchart.jpg)  
+
 ## 🚀 Features  
 ✅ **Real-time sun tracking** using LDR sensors  
 ✅ **Dual-axis movement** for optimal alignment  
